@@ -1,14 +1,29 @@
-# Vue_Technical_Test
-Source di bawah ini merupakan jawaban dari soal Tes Tahap 1 Vue Technical Test
+# crud-customer
 
-## Getting Started
-berikut beberapa langkah untuk menjalankan soal no 1 sampai no 3
+This template should help get you started developing with Vue 3 in Vite.
 
-### Soal No 1 dan No 2
-- Untuk soal no 1, gunakan perintah "node no1.js"
-- Untuk soal no 2, gunakan perintah "node no2.js" 
+## Recommended IDE Setup
 
-### Soal No 3
-- install npm dengan perintah "npm install"
-- kemudian running program dengan perintah "npm run dev"
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
